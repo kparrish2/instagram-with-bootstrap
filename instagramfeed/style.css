@@ -1,0 +1,48 @@
+body{
+	background-color: lightgray;
+	margin: 0;
+}
+
+header{
+	background-color: white;
+	padding: 1px;
+}
+
+header div{
+	background-color: white;
+	margin: 0;
+}
+
+#mainContainer{
+    background-color: lightgray;
+}
+
+.centeredContainer{
+	width: 600px;
+	margin: auto;
+	background-color: white;
+}
+
+.postContainer{
+	margin-top: 30px;
+	background-color: white;
+}
+
+.postHeaderContainer{
+	display: flex;
+}
+
+.postCommentContainer{
+	padding: 12px;
+}
+
+.postHeaderContainer div{
+	display:inline-block;
+	width: 50%;
+}
+
+.postHeaderDateContainer div{
+	display: inline-block;
+	width: 50%;
+}
+
