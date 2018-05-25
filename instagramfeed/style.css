@@ -43,6 +43,10 @@ header div{
 
 .postHeaderDateContainer div{
 	display: inline-block;
-	width: 50%;
+	width: 50%
+}
+
+postHeaderDateContainer div{
+	text-align: right;
 }
 
